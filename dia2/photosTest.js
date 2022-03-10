@@ -77,7 +77,7 @@ function unfollow (name, name1){
     })  
 }
 
-unfollow("Miguel", "Ruben")
+// unfollow("Miguel", "Ruben")
 
 function deletePhoto(name, title){
 
